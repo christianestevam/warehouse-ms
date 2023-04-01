@@ -19,4 +19,5 @@ public class Warehouse {
 
     @Column(name = "quantity")
     private int quantity;
+
 }

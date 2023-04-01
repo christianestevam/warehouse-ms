@@ -7,4 +7,6 @@ public class WarehouseDTO {
 
     private Long productId;
     private int quantity;
+
 }
+
